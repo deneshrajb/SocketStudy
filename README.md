@@ -127,12 +127,11 @@ client_socket.close()
 ```
 
 ## Output:
-
 server.py
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2d6d0bb8-7cb8-4d86-87d0-6ac7d3a8a1f4" />
-
 client.py
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a1bcd070-05a9-428f-859d-84408b7e8f5a" />
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
